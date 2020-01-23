@@ -21,7 +21,7 @@ Vue.use(BootstrapVueIcons);
 /* eslint-disable no-new */
 Vue.prototype.$appName = 'My App'
 Vue.prototype.$isDbOperationGoingOn = false;
-
+//sarada
 new Vue({
   data: {
     isLoading: false,
